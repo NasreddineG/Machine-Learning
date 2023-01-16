@@ -19,7 +19,7 @@ The goal of this project is to detect the emotions of pictures among 7 emotions 
 - Neutral
 
 
-The dataset is to heavy to upload in github buut you can download it on kaggle website on this link:  https://www.kaggle.com/msambare/fer2013
+The dataset is to heavy to upload it in github, but you can download it on kaggle website on this link:  https://www.kaggle.com/msambare/fer2013
 
 
 The code is available on google colab in the link bellow: 
